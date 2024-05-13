@@ -2,8 +2,13 @@ import React from 'react'
 
 const AddTransformationTypePage = () => {
   return (
-    <div>AddTransformationTypePage </div>
-  )
+     <>
+      <Header 
+        title="Transformation Title"
+        subtitle="Transformation
+       subtitle"
+     />
+   ) 
 }
 
 export default AddTransformationTypePage
